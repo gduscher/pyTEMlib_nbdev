@@ -2,9 +2,9 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"say_hello": "00_core.ipynb"}
+index = {}
 
-modules = ["kinematic_scattering.py"]
+modules = []
 
 doc_url = "https://gduscher.github.io/pyTEMlib_nbdev/"
 
